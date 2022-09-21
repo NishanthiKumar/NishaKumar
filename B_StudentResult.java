@@ -14,6 +14,7 @@ public class B_StudentResult {
 		else { 
 			System.out.println("Maths mark is highest");
 		}
+	System.out.println("Surendhar");
 	}
 
 }
